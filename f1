@@ -1,0 +1,4 @@
+hello my name is manu today we are learning git 
+with my friend pawan
+so first we will create a file by touch and add a file on a staging area then we well commit it 
+by the help of the commnad git commit -m ""[Dmessage"[Cfile_name 
